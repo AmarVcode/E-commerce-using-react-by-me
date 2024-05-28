@@ -1,0 +1,16 @@
+.main-heading{
+    text-align: center;
+    padding: 3rem;
+    font-size: 4rem;
+    .text-gradient{
+        background: linear-gradient(90deg, #7209B7,#F72585);
+        color: transparent;
+        background-clip: text;
+    }
+    .bg-gradient{
+        color: white;
+        background: linear-gradient(90deg, #7209B7,#F72585);
+        padding: 0px 10px;
+        border-radius: 5px;
+    }
+}
